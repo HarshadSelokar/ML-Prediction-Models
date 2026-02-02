@@ -1,0 +1,9 @@
+Fever,Cough,Headache,Disease
+Yes,Yes,Yes,Flu
+Yes,Yes,No,Flu
+No,Yes,Yes,Cold
+No,No,Yes,Cold
+Yes,No,Yes,Flu
+No,Yes,No,Cold
+Yes,No,No,Flu
+No,No,No,Null
